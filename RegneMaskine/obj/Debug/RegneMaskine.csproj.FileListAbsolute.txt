@@ -1,0 +1,14 @@
+C:\Users\Sofus Skovgaard\source\repos\RegneMaskine\RegneMaskine\bin\Debug\RegneMaskine.exe.config
+C:\Users\Sofus Skovgaard\source\repos\RegneMaskine\RegneMaskine\bin\Debug\RegneMaskine.exe
+C:\Users\Sofus Skovgaard\source\repos\RegneMaskine\RegneMaskine\bin\Debug\RegneMaskine.pdb
+C:\Users\Sofus Skovgaard\source\repos\RegneMaskine\RegneMaskine\obj\Debug\RegneMaskine.csprojAssemblyReference.cache
+C:\Users\Sofus Skovgaard\source\repos\RegneMaskine\RegneMaskine\obj\Debug\RegneMaskine.csproj.CoreCompileInputs.cache
+C:\Users\Sofus Skovgaard\source\repos\RegneMaskine\RegneMaskine\obj\Debug\RegneMaskine.exe
+C:\Users\Sofus Skovgaard\source\repos\RegneMaskine\RegneMaskine\obj\Debug\RegneMaskine.pdb
+C:\Users\Sofus Skovgaard\Desktop\regnemaskine\RegneMaskine\bin\Debug\RegneMaskine.exe.config
+C:\Users\Sofus Skovgaard\Desktop\regnemaskine\RegneMaskine\bin\Debug\RegneMaskine.exe
+C:\Users\Sofus Skovgaard\Desktop\regnemaskine\RegneMaskine\bin\Debug\RegneMaskine.pdb
+C:\Users\Sofus Skovgaard\Desktop\regnemaskine\RegneMaskine\obj\Debug\RegneMaskine.csprojAssemblyReference.cache
+C:\Users\Sofus Skovgaard\Desktop\regnemaskine\RegneMaskine\obj\Debug\RegneMaskine.csproj.CoreCompileInputs.cache
+C:\Users\Sofus Skovgaard\Desktop\regnemaskine\RegneMaskine\obj\Debug\RegneMaskine.exe
+C:\Users\Sofus Skovgaard\Desktop\regnemaskine\RegneMaskine\obj\Debug\RegneMaskine.pdb
